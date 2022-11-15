@@ -1,3 +1,3 @@
 Recipes website
 
-Having been made with: HTML.
+It's made with: HTML.
