@@ -2,6 +2,11 @@ body {
     background-color: lightpink;
 }
 
+h1 {
+    font-family: 'Times New Roman';
+    font-style: italic;
+}
+
 h1, ol {
     text-align: center;
 }
